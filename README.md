@@ -1,6 +1,5 @@
 # Image-Caption-Generator
-The Image Caption Generator project using Python typically involves creating a system that automatically generates textual descriptions for images. 
-The Image Caption Generator project harnesses deep learning techniques to create descriptive captions for images. Built using Python and frameworks like TensorFlow or PyTorch, the system typically follows these steps:
+The Image Caption Generator project using Python typically involves creating a system that automatically generates textual descriptions for images. This project showcases the integration of computer vision and natural language processing techniques, providing a practical application in fields like image indexing, content retrieval, and accessibility for visually impaired individuals.The Image Caption Generator project harnesses deep learning techniques to create descriptive captions for images. Built using Python and frameworks like TensorFlow or PyTorch, the system typically follows these steps:
 
 1.	Preprocessing: Images are processed to extract meaningful features using pretrained convolutional neural networks (CNNs) like VGG, ResNet, or Inception. These networks help extract high-level features that capture important aspects of the image content.
 
