@@ -15,8 +15,19 @@ The Image Caption Generator project using Python typically involves creating a s
 
 This project showcases the integration of computer vision and natural language processing techniques, providing a practical application in fields like image indexing, content retrieval, and accessibility for visually impaired individuals.
 
+## Methodology
+1.	Data Collection: Gather a large dataset of images with corresponding captions.
+2.	Data Preprocessing:
+3.	Preprocess images for the CNN.
+4.	Preprocess captions for the RNN.
+5.	Model Architecture:
+6.	Use a pre-trained CNN (e.g., InceptionV3) to extract image features.
+7.	Use an RNN (e.g., LSTM) to generate captions based on the extracted features.
+8.	Training the Model: Train the combined CNN-RNN model on the preprocessed dataset.
+9.	Generating Captions: Use the trained model to generate captions for new images.
+10.	Evaluation: Evaluate the model’s performance using metrics like BLEU score.
 
-
+## Stepwise implementation is shown in the code
 
 
 
